@@ -7,4 +7,6 @@ In this shopping list, you can:
 -- toggle on/off to indicate that an item is done without deleting them;
 -- delete items,
 
-Live page: 
+Live page: https://aisafaith.github.io/shopping-list/
+
+
